@@ -1,2 +1,2 @@
-ReliGo
-Helping Hand, Relief and Companion App
+Relief App
+Helping hand companion
